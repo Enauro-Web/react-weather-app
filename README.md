@@ -1,2 +1,3 @@
 # react-weather-app
-<h1>Example</h1>
+<h2>Application example not used for release</h2>
+<p>Reactjs - nodejs</p>
